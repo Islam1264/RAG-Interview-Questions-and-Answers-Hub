@@ -1,6 +1,6 @@
 # 🚀 RAG Interview Questions and Answers Hub
 This repository includes 100+ RAG interview questions with answers.
-![AIxFunda Newsletter](https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub/blob/main/Interview_QA/images/2-.jpg)
+![RAG Interview Questions and Answers Hub](https://github.com/KalyanKS-NLP/RAG-Interview-Questions-and-Answers-Hub/blob/main/Interview_QA/images/main.jpg)
 
 
 ## Related Repositories
